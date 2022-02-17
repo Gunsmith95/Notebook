@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1545" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/drawable/ic_add2.xml" value="0.1545" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/drawable/ic_addPhoto2_foreground.xml" value="0.1535" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/drawable/ic_addPhoto_foreground.xml" value="0.1535" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/drawable/ic_add_foreground.xml" value="0.1545" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/drawable/ic_addphoto2_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/drawable/ic_edit_foreground.xml" value="0.1535" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1545" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/drawable/ic_save_foreground.xml" value="0.1545" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/drawable/ic_save_foreground2.xml" value="0.1" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/drawable/search_view.xml" value="0.1455" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/layout/act_main.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/layout/edit_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/layout/rc_view.xml" value="0.33" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/mipmap-anydpi-v26/ic_addPhoto.xml" value="0.147" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/mipmap-anydpi-v26/ic_addPhoto2.xml" value="0.1535" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/mipmap-anydpi-v26/ic_addPhoto_round.xml" value="0.147" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/mipmap-anydpi-v26/ic_add_round.xml" value="0.147" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/mipmap-anydpi-v26/ic_save.xml" value="0.1545" />
+        <entry key="..\:/Users/Gunsmith/AndroidStudioProjects/Collection/app/src/main/res/mipmap-anydpi-v26/ic_save_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
